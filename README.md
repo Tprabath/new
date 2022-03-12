@@ -18,5 +18,5 @@ template=">
 
 Telegarm Link -><div align="left"><a href= "
 template=">
-<img src=" " width="64" ></a></div>
+<img src="telegram_app_64px.png" width="45" ></a></div>
 
