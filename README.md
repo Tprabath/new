@@ -1,4 +1,4 @@
-> # _***prabath Thech***_
+> # _***prabath Tech***_
 <div align="left"><a href= "
 template=">
 <img src="icons8_windows_10_64.png" width="82" ></a></div>
