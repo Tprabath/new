@@ -6,11 +6,17 @@ template=">
 
 
 ***
-youtube Link ->
+youtube Link -><div align="left"><a href= "
+template=">
+<img src=" " width="64" ></a></div>
 
 
-watsapp Link ->
+watsapp Link ->  <div align="left"><a href= "
+template=">
+<img src=" " width="64" ></a></div>
 
 
-Telegarm Link ->
+Telegarm Link -><div align="left"><a href= "
+template=">
+<img src=" " width="64" ></a></div>
 
