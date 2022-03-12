@@ -6,17 +6,16 @@ template=">
 
 
 ***
-youtube Link -><div align="left"><a href= "
+<div align="left"><a href= "
 template=">
-<img src="icons8_youtube_squared_64.png" width="45" ></a></div>
+<img src="icons8_youtube_squared_64.png" width="45" ></a></div> Youtube link -> https://www.youtube.com/channel/UCMQkRxliXsJYBy9IquTs8nA 
 
-
-watsapp Link ->  <div align="left"><a href= "
+<div align="left"><a href= "
 template=">
-<img src=" " width="64" ></a></div>
+<img src="whatsapp_64px.png" width="45" ></a></div> Watsapp Link -> https://wa.me/+94754913041
 
 
-Telegarm Link -><div align="left"><a href= "
+
+<div align="left"><a href= "
 template=">
-<img src="telegram_app_64px.png" width="45" ></a></div>
-
+<img src="telegram_app_64px.png" width="45" ></a></div> Telegarm Link -    no
